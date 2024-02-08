@@ -1,4 +1,5 @@
 function alertbox() {
-	//alert("First Name:","fn");
+	let fn=#fn;
+	alert("First Name:"+fn);
 }
 
